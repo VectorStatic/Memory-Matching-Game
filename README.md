@@ -1,3 +1,3 @@
 # Memory matching game
 
-## <b> [Start the Game](ji10raj.github.io/Memory-Matching-Game)
+## <b> [Start the Game](vectorstatic.github.io/Memory-Matching-Game)
